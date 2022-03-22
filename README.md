@@ -1,3 +1,5 @@
 # This is a repo
 
-**any tekst**
+2 zdania o mnie.
+
+są takie sobie.
